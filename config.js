@@ -99,7 +99,7 @@ var ABOUT = {
     "原作者＆鸣谢" : ["Yuehao","Hab1nA"],
     "作者" : ["任佑恩"],
     "信息收集" : ["乔碧涛","任佑恩"],
-    "意见反馈" : ["QQ:2321403454"],
+    "意见反馈" : ["QQ:1416005923"],
     "框架" : ["<a href='https://github.com/yuehaowang/irmap' target='_blank'>irmap</a>", "Bootstrap", "百度地图"],
     "备注" : ["统计不完全"],
     "版本": ["24.7.29 V1.0.0"],
